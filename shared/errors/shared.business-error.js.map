@@ -1,0 +1,1 @@
+{"version":3,"file":"shared.business-error.js","sourceRoot":"","sources":["../../../src/shared/errors/shared.business-error.ts"],"names":[],"mappings":";;;AAAa,QAAA,oBAAoB,GAAG;IAClC,WAAW,EAAE;QACT,YAAY,EAAE,aAAa;QAC3B,YAAY,EAAE,gDAAgD;QAC9D,MAAM,EAAE,uBAAuB;KAClC;CACF,CAAA"}
