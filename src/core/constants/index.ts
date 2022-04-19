@@ -1,0 +1,10 @@
+export const SEQUELIZE = 'SEQUELIZE';
+export const DEVELOPMENT = 'development';
+export const TEST = 'test';
+export const PRODUCTION = 'production';
+export const MESSAGE_REPOSITORY = "MESSAGE_REPOSITORY";
+export const USER_REPOSITORY = "USER_REPOSITORY";
+export const TICKET_REPOSITORY = "TICKET_REPOSITORY";
+export const CATEGORY_REPOSITORY = "CATEGORY_REPOSITORY";
+export const STATE_REPOSITORY = "STATE_REPOSITORY";
+export const MOMENT_WRAPPER = "MOMENT_WRAPPER";
